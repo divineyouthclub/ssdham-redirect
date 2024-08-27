@@ -2,11 +2,10 @@
   "port": 80,
   "redirects": {
     "localhost": {
-      "host": "http://pksunkara.github.com",
       "code": 302
     },
     "*": {
-      "host": "http://www.google.com",
+      "host": "http://divineclubworldwide.org",
       "code": 302
     }
   }
